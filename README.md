@@ -8,7 +8,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 	> git clone git@github.com:vicki3z/ReactFacebookProject.git
-	> cd react-starter
+	> cd ReactFacebookProject
 	> npm install
 	> npm start
 ```
